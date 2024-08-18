@@ -231,6 +231,9 @@ hr
     width: 50%;
     display: inline-block;
 }
+.contact-section
+{
+        margin-left:10px;
 input{
     width: 100%;
     display: block;
